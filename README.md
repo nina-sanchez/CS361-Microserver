@@ -24,6 +24,9 @@ To recieve
 
 Please let me know if you have any questions!
 
+<img width="483" alt="Screenshot 2023-07-31 at 11 35 30 PM" src="https://github.com/nina-sanchez/CS361-Microserver/assets/104878059/9ae3ed0d-9c37-447d-a284-d8d382cd63d1">
+
+
 
 
 
