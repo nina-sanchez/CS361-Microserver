@@ -1,5 +1,5 @@
 # CS361-Microserver
-Hello! Let me know how it is so far and what tweaks you would like me to make, especially with mongoDB. At the moment I have it so the edits are made in the text file, but can change any of that to fit your needs. 
+Hello! 
 
 To ensure your environment can run it, I would make sure to have: 
 - pip install Flask
